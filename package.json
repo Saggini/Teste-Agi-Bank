@@ -1,0 +1,22 @@
+{
+  "name": "teste-cypress",
+  "version": "1.0.0",
+  "description": "Testes automatizados para o blog da Agi Bank",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saggini/Teste-Agi-Bank.git"
+  },
+  "author": "Brian Sagini",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Saggini/Teste-Agi-Bank/issues"
+  },
+  "homepage": "https://github.com/Saggini/Teste-Agi-Bank#readme",
+  "devDependencies": {
+    "cypress": "^9.5.2"
+  }
+}
